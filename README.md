@@ -1,2 +1,2 @@
 # testrepo
-learning ponly
+learning only
